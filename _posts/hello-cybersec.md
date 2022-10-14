@@ -31,7 +31,7 @@ git clone https://github.com/sherlock-project/sherlock.git
 ~~~
 
 After downloading Sherlock to your machine, you need to install Sherlock to your Kali Linux using the following commands.
-Hey
+Hey am alfred
 
 
 
