@@ -1,8 +1,8 @@
 ---
 title: My First Post
 date: 2022-05-23 20:00:00 -500
-categries: [cybersecurity, kali]
-tags: [sherlock, kali, bruteforce] #TAG names should always be empty 
+categries: [cybersecurity,kali]
+tags: [sherlock,kali,bruteforce] #TAG names should always be empty 
 ---
 
 # Hunting down spider-man using Sherlock
